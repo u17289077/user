@@ -1,0 +1,22 @@
+# Server
+
+
+# Database
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/COS730UserModule
+    username: postgres
+    password: Blackrose$1
+    platform: postgres
+	
+# JPA
+jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    database: postgresql
+	
+# Logging
+logging:
+  level: debug
