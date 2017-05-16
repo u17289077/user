@@ -1,0 +1,14 @@
+username,password,firstname,lastname,email,cell_number,is_activated,is_admin
+<<<<<<< HEAD
+TestA,TestAPass,A,Ate,ate@gmail.com,+27822892784,TRUE,FALSE
+TestB,TestBPass,B,Bte,bte@gmail.com,+27820890780,TRUE,FALSE
+TestC,TestCPass,C,Cte,cte@gmail.com,+27823002785,TRUE,FALSE
+TestD,TestDPass,D,Dte,dte@gmail.com,+27802892764,TRUE,TRUE
+TestE,TestEPass,E,Ete,ete@gmial.com,+27788890780,TRUE,FALSE
+=======
+TestA,TestAPass,A,Ate,ate@gmail.com,1822892784,TRUE,FALSE
+TestB,TestBPass,B,Bte,bte@gmail.com,820890780,TRUE,FALSE
+TestC,TestCPass,C,Cte,cte@gmail.com,1823002785,TRUE,FALSE
+TestD,TestDPass,D,Dte,dte@gmail.com,1802892764,TRUE,TRUE
+TestE,TestEPass,E,Ete,ete@gmial.com,788890780,TRUE,FALSE
+>>>>>>> 12f4208a178266e870f76c2ecb2781922c592cf3
